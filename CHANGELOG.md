@@ -7,4 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-[Unreleased]: https://github.com/giantswarm/REPOSITORY_NAME/tree/master
+## [0.1.0] - 2021-10-04
+
+[Unreleased]: https://github.com/giantswarm/azure-storageclasses/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/giantswarm/azure-storageclasses/releases/tag/v0.1.0
