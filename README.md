@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/giantswarm/azure-storageclasses-app.svg?style=shield)](https://circleci.com/gh/giantswarm/azure-storageclasses-app)
+[![CircleCI](https://circleci.com/gh/giantswarm/azure-storageclasses/tree/master.svg?style=svg)](https://circleci.com/gh/giantswarm/azure-storageclasses/tree/master)
 
 # azure-storageclasses chart
 
